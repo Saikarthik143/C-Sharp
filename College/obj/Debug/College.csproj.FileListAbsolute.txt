@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\College\bin\Debug\College.exe.config
+C:\Users\Dell\source\repos\College\bin\Debug\College.exe
+C:\Users\Dell\source\repos\College\bin\Debug\College.pdb
+C:\Users\Dell\source\repos\College\obj\Debug\College.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\College\obj\Debug\College.exe
+C:\Users\Dell\source\repos\College\obj\Debug\College.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\DemoP\bin\Debug\DemoP.exe.config
+C:\Users\Dell\source\repos\DemoP\bin\Debug\DemoP.exe
+C:\Users\Dell\source\repos\DemoP\bin\Debug\DemoP.pdb
+C:\Users\Dell\source\repos\DemoP\obj\Debug\DemoP.exe
+C:\Users\Dell\source\repos\DemoP\obj\Debug\DemoP.pdb

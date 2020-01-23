@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Oop\bin\Debug\Oop.exe.config
+C:\Users\Dell\source\repos\Oop\bin\Debug\Oop.exe
+C:\Users\Dell\source\repos\Oop\bin\Debug\Oop.pdb
+C:\Users\Dell\source\repos\Oop\obj\Debug\Oop.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Oop\obj\Debug\Oop.exe
+C:\Users\Dell\source\repos\Oop\obj\Debug\Oop.pdb

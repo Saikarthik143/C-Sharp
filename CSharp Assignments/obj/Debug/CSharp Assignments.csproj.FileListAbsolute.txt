@@ -1,0 +1,6 @@
+E:\C# Karthik\CSharp Assignments\obj\Debug\CSharp Assignments.csprojAssemblyReference.cache
+E:\C# Karthik\CSharp Assignments\bin\Debug\CSharp Assignments.exe.config
+E:\C# Karthik\CSharp Assignments\bin\Debug\CSharp Assignments.exe
+E:\C# Karthik\CSharp Assignments\bin\Debug\CSharp Assignments.pdb
+E:\C# Karthik\CSharp Assignments\obj\Debug\CSharp Assignments.exe
+E:\C# Karthik\CSharp Assignments\obj\Debug\CSharp Assignments.pdb

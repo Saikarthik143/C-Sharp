@@ -1,0 +1,6 @@
+E:\C# Karthik\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\C# Karthik\Array\bin\Debug\Array.exe.config
+E:\C# Karthik\Array\bin\Debug\Array.exe
+E:\C# Karthik\Array\bin\Debug\Array.pdb
+E:\C# Karthik\Array\obj\Debug\Array.exe
+E:\C# Karthik\Array\obj\Debug\Array.pdb

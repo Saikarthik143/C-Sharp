@@ -1,0 +1,6 @@
+E:\C# Karthik\Collections\bin\Debug\Collections.exe.config
+E:\C# Karthik\Collections\bin\Debug\Collections.exe
+E:\C# Karthik\Collections\bin\Debug\Collections.pdb
+E:\C# Karthik\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+E:\C# Karthik\Collections\obj\Debug\Collections.exe
+E:\C# Karthik\Collections\obj\Debug\Collections.pdb

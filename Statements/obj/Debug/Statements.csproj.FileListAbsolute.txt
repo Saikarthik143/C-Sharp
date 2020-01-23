@@ -1,0 +1,6 @@
+E:\C# Karthik\Statements\bin\Debug\Statements.exe.config
+E:\C# Karthik\Statements\bin\Debug\Statements.exe
+E:\C# Karthik\Statements\bin\Debug\Statements.pdb
+E:\C# Karthik\Statements\obj\Debug\Statements.csprojAssemblyReference.cache
+E:\C# Karthik\Statements\obj\Debug\Statements.exe
+E:\C# Karthik\Statements\obj\Debug\Statements.pdb

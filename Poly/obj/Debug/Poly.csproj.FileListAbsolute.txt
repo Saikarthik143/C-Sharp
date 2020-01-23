@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Poly\bin\Debug\Poly.exe.config
+C:\Users\Dell\source\repos\Poly\bin\Debug\Poly.exe
+C:\Users\Dell\source\repos\Poly\bin\Debug\Poly.pdb
+C:\Users\Dell\source\repos\Poly\obj\Debug\Poly.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Poly\obj\Debug\Poly.exe
+C:\Users\Dell\source\repos\Poly\obj\Debug\Poly.pdb

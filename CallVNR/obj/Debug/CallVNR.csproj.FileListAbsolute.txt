@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\CallVNR\bin\Debug\CallVNR.exe.config
+C:\Users\Dell\source\repos\CallVNR\bin\Debug\CallVNR.exe
+C:\Users\Dell\source\repos\CallVNR\bin\Debug\CallVNR.pdb
+C:\Users\Dell\source\repos\CallVNR\obj\Debug\CallVNR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CallVNR\obj\Debug\CallVNR.exe
+C:\Users\Dell\source\repos\CallVNR\obj\Debug\CallVNR.pdb

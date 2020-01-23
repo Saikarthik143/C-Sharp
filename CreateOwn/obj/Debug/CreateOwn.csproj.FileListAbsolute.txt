@@ -1,0 +1,6 @@
+E:\C# Karthik\CreateOwn\bin\Debug\CreateOwn.exe.config
+E:\C# Karthik\CreateOwn\bin\Debug\CreateOwn.exe
+E:\C# Karthik\CreateOwn\bin\Debug\CreateOwn.pdb
+E:\C# Karthik\CreateOwn\obj\Debug\CreateOwn.csprojAssemblyReference.cache
+E:\C# Karthik\CreateOwn\obj\Debug\CreateOwn.exe
+E:\C# Karthik\CreateOwn\obj\Debug\CreateOwn.pdb

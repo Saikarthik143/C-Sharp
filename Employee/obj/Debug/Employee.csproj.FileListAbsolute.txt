@@ -1,0 +1,6 @@
+E:\C# Karthik\Employee\bin\Debug\Employee.exe.config
+E:\C# Karthik\Employee\bin\Debug\Employee.exe
+E:\C# Karthik\Employee\bin\Debug\Employee.pdb
+E:\C# Karthik\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+E:\C# Karthik\Employee\obj\Debug\Employee.exe
+E:\C# Karthik\Employee\obj\Debug\Employee.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Interface\bin\Debug\Interface.exe.config
+C:\Users\Dell\source\repos\Interface\bin\Debug\Interface.exe
+C:\Users\Dell\source\repos\Interface\bin\Debug\Interface.pdb
+C:\Users\Dell\source\repos\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Interface\obj\Debug\Interface.exe
+C:\Users\Dell\source\repos\Interface\obj\Debug\Interface.pdb

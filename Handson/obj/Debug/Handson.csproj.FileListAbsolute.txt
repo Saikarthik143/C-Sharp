@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Handson\obj\Debug\Handson.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Handson\bin\Debug\Handson.exe.config
+C:\Users\Dell\source\repos\Handson\bin\Debug\Handson.exe
+C:\Users\Dell\source\repos\Handson\bin\Debug\Handson.pdb
+C:\Users\Dell\source\repos\Handson\obj\Debug\Handson.exe
+C:\Users\Dell\source\repos\Handson\obj\Debug\Handson.pdb

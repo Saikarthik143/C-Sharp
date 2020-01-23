@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Acc\obj\Debug\Acc.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Acc\bin\Debug\Acc.exe.config
+C:\Users\Dell\source\repos\Acc\bin\Debug\Acc.exe
+C:\Users\Dell\source\repos\Acc\bin\Debug\Acc.pdb
+C:\Users\Dell\source\repos\Acc\obj\Debug\Acc.exe
+C:\Users\Dell\source\repos\Acc\obj\Debug\Acc.pdb

@@ -1,0 +1,6 @@
+E:\C# Karthik\Stringc\bin\Debug\Stringc.exe.config
+E:\C# Karthik\Stringc\bin\Debug\Stringc.exe
+E:\C# Karthik\Stringc\bin\Debug\Stringc.pdb
+E:\C# Karthik\Stringc\obj\Debug\Stringc.csprojAssemblyReference.cache
+E:\C# Karthik\Stringc\obj\Debug\Stringc.exe
+E:\C# Karthik\Stringc\obj\Debug\Stringc.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Dict\obj\Debug\Dict.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Dict\bin\Debug\Dict.exe.config
+C:\Users\Dell\source\repos\Dict\bin\Debug\Dict.exe
+C:\Users\Dell\source\repos\Dict\bin\Debug\Dict.pdb
+C:\Users\Dell\source\repos\Dict\obj\Debug\Dict.exe
+C:\Users\Dell\source\repos\Dict\obj\Debug\Dict.pdb

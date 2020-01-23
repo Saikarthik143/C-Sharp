@@ -1,0 +1,6 @@
+E:\C# Karthik\thread\obj\Debug\thread.csprojAssemblyReference.cache
+E:\C# Karthik\thread\bin\Debug\thread.exe.config
+E:\C# Karthik\thread\bin\Debug\thread.exe
+E:\C# Karthik\thread\bin\Debug\thread.pdb
+E:\C# Karthik\thread\obj\Debug\thread.exe
+E:\C# Karthik\thread\obj\Debug\thread.pdb

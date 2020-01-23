@@ -1,0 +1,6 @@
+E:\C# Karthik\String\bin\Debug\String.exe.config
+E:\C# Karthik\String\bin\Debug\String.exe
+E:\C# Karthik\String\bin\Debug\String.pdb
+E:\C# Karthik\String\obj\Debug\String.csprojAssemblyReference.cache
+E:\C# Karthik\String\obj\Debug\String.exe
+E:\C# Karthik\String\obj\Debug\String.pdb
